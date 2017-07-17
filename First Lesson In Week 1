@@ -1,0 +1,23 @@
+<html>
+	<body>
+		<h1> LESSONS FROM WEEK 1
+		
+		<h1>1. Linux Commands
+
+So far, we have learnt some basic commands used in python.
+ For example,
+	 ctrl+ alt+t to open new terminal
+	man to view the manual page for some key words
+	man pwd to see the current working directory
+	cd / allow the user to change between file directories
+	ls to show all of the major directories filed under a given file system
+	mkdir make directory - command allows the user to make a new directory.
+	cd ~ to go back to home directory.
+	cd .. to go back to previous directory
+	pico to open editor
+	ctrl + X to exit editor
+	etc.
+
+		<h1> 2. Combining Commands
+	Will tell you more later.
+	
